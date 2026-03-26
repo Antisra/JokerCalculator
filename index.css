@@ -32,6 +32,7 @@ border-color: green;
 border:dashed;
 border-width: 100%;
 background-color: blue;
+ color: white;
 }
 
 body {margin: 0;

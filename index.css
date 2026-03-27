@@ -37,6 +37,9 @@ body {margin: 0;
 display: flex;
 justify-content: center;
 align-items: cemter;
+   background-image: url("https://i.postimg.cc/k4hN6dLk/Copy_of_Untitled_Design.png");
+    background-size: cover;
+    background-position: center;
 }
 
 button:hover { background-color: #FCAA50;}
@@ -48,8 +51,3 @@ button:active {background-color: #6E1932;}
 .operator-btn:hover{ background-color: #E4D5D2;}
 
 .operator-btn:active{ background-color: #6E1932;}
-
-
-
-
- {background-image: url("url("path/to/your/image.jpg"); }
